@@ -1,0 +1,4 @@
+adafruit/Adafruit GFX Library @ ^1.12.1
+adafruit/Adafruit SSD1306 @ ^2.5.15
+yoursunny/WifiEspNow @ ^0.0.20230713
+https://github.com/rtlopez/espnow-rclink/archive/refs/tags/v0.1.1.zip
